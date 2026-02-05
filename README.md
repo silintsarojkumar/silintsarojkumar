@@ -18,14 +18,15 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+
 ### 🔝 Top Projects
 
-- 🚀 [**SMC-H**](https://github.com/silintsarojkumar/SMC-H) – Smart healthcare web application  
+- 🚀 [**SMC-H**](https://github.com/silintsarojkumar/SMC-H) – Smart healthcare web application
+- 📚 [**Learning-Platform**](https://github.com/silintsarojkumar/Learning-Platform) – Educational web platform for interactive learning
 - 🎮 [**Snack-Game**](https://github.com/silintsarojkumar/Snack-Game) – Fun browser-based game built with JavaScript  
 - 🤖 [**AI-Modal**](https://github.com/silintsarojkumar/AI-Modal) – AI-powered modal interaction project  
 - 🎥 [**watchTogether**](https://github.com/silintsarojkumar/watchToGether) – Real-time shared video watching platform  
-- 📚 [**Learning-Platform**](https://github.com/silintsarojkumar/Learning-Platform) – Educational web platform for interactive learning
+
 
 
 ---
