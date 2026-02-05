@@ -19,7 +19,14 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=silintsarojkumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Projects
+
+- 🚀 [**SMC-H**](https://github.com/silintsarojkumar/SMC-H) – Smart healthcare web application  
+- 🎮 [**Snack-Game**](https://github.com/silintsarojkumar/Snack-Game) – Fun browser-based game built with JavaScript  
+- 🤖 [**AI-Modal**](https://github.com/silintsarojkumar/AI-Modal) – AI-powered modal interaction project  
+- 🎥 [**watchTogether**](https://github.com/silintsarojkumar/watchToGether) – Real-time shared video watching platform  
+- 📚 [**Learning-Platform**](https://github.com/silintsarojkumar/Learning-Platform) – Educational web platform for interactive learning
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=silintsarojkumar&icon=0&color=0)](https://visitcount.itsvg.in)
